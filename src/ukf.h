@@ -70,6 +70,10 @@ public:
     ///* Number of Sigma points
     int n_sigma_;
 
+    // NIS Variables for tuning parameters
+    double NIS_laser_;
+    double NIS_radar_;
+
     /**
      * Constructor
      */
