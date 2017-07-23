@@ -2,4 +2,5 @@
 .DS_Store
 
 # build files
-build/
+cmake-build-debug/
+cmake-build-release/
